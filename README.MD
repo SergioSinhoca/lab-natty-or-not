@@ -21,10 +21,6 @@ Essa simples historia, conta sobre um explorador, que vaga pelo universo buscand
 As imagens utilizadas no vídeo foram geradas no **Leonardo AI**, o roteiro da historia foi criado no **ChatGPT**, a organização das imagens e os efeitos foram no **Capcut**,  a narração da voz do narrador e do explorador, foi gerado no **Clipchamp**.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 
 <a href="https://github.com/SergioSinhoca/lab-natty-or-not/tree/main/video"
  title="View PDF now"> Clique aqui e confira o vídeo</a>

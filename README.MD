@@ -19,7 +19,7 @@ Essa simples historia, conta sobre um explorador, que vaga pelo universo buscand
 - [Clipchamp](https://clipchamp.com/)
 
 ## 🧐 Processo de Criação
-As imagens utilizadas no vídeo foram geradas no **Leonardo AI**, o roteiro da historia foi criado no **ChatGPT**, a organização das imagens e os efeitos foram no **Capcut**, a narração da voz do narrador e do explorador, foi gerado no **Clipchamp**.
+As imagens utilizadas no vídeo foram geradas no **Leonardo AI**, o roteiro da historia foi criado no **ChatGPT**, a organização das imagens e os efeitos foram no **Capcut**,  a narração da voz do narrador e do explorador, foi gerado no **Clipchamp**.
 
 ## 🚀 Resultados
 <a href="https://github.com/SergioSinhoca/lab-natty-or-not/tree/main/video"

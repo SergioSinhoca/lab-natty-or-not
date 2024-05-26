@@ -25,8 +25,8 @@ Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-=======
+
 <a href="https://github.com/SergioSinhoca/lab-natty-or-not/tree/main/video"
  title="View PDF now"> Clique aqui e confira o vídeo</a>
 
->>>>>>> trabalhando
+
